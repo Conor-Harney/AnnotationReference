@@ -1,0 +1,1 @@
+From repository added to during time at QA Consulting: https://github.com/Conor-Harney/new-account
